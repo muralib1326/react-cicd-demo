@@ -8,7 +8,7 @@ function NavBar() {
     const { cart } = useContext(CartContext);
     return <nav className="navbar">
         <div className="navbar-brand">
-            <h1>Mini Store</h1>
+            <h1>My Store</h1>
         </div>
         <ul className="navbar-links">
 
